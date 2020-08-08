@@ -1,0 +1,41 @@
+ input[type=text]{
+  width:100%;
+  border:2px solid #aaa;
+   border-redious:4px;
+   margin:8px;
+   outline:none;
+   padding:8px;
+   box-sizing:border-box;
+   transition:.5s;
+}
+
+input[type=text]:focus{
+  border-color:dodgerBlue;
+  box-shadow:0 0 8px 0 dodgerBlue;
+}
+
+input[type=button]{
+width:20%;
+  height:20%;
+  font-family: lato;
+  border-radius: 2px;
+  box-shadow: 2px 2px lightgray;
+}
+
+#heading {
+  text-align:center;
+  font-size:20px;
+}
+
+body{
+  background-color: w;
+}
+
+table1 {
+  border-style: solid;
+ border-radius: 4px; 
+}
+
+form{
+  text-align: left;
+}
